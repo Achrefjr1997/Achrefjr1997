@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 ## 🧠 About me
 
@@ -26,10 +25,10 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 - 💬 **Ask me about:** object detection & tracking, edge optimization, agentic RAG, MCP
 - 🌐 **Languages:** English · Français · العربية
 
----
 
 ## ⚡ Highlights
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="25%"><h3>🥉 3rd</h3>Solafune AOD<br/>challenge</td>
@@ -38,17 +37,33 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
     <td align="center" width="25%"><h3>3w → 3d</h3>model iteration<br/>cycle with MLOps</td>
   </tr>
 </table>
+</div>
 
----
 
 ## 🚀 Featured projects
 
-| | Project | What it does | Built with |
-|:-:|---|---|---|
-| 📞 | [**RingFence**](https://github.com/Achrefjr1997/ringfence) | Listens to a live phone call and **warns the target of a scam in real time**. Streaming ASR + speaker-role inference feed a rules-first risk engine with a **bounded LLM judge**; safety guarantees are enforced as tests. EN / FR / AR | Python · Go · FastAPI · WebSockets · PostgreSQL |
-| 🩺 | [**MEDRAG**](https://github.com/Achrefjr1997/MEDRAG) | **Multi-agent medical RAG** over 7,094 MedlinePlus articles (~20k chunks). Routes each query to specialist agents; a **critic runs a corrective-RAG loop** until the answer passes | LangGraph · ChromaDB · FastAPI · Ollama |
-| 🔄 | [**Cobpy**](https://github.com/Achrefjr1997/Cobpy) | **Agentic COBOL → Python migrator.** Translates, tests and reflects in a loop, then scores equivalence with 4 validators (differential, property-based, LLM-judge, static) | LangGraph · FastAPI · React |
-| 🔍 | [**Modified-YOLO-World**](https://github.com/Achrefjr1997/Modified-YOLO-World) | YOLO-World + DCNv3, Coordinate Attention and AMFF fusion for drone anomaly detection in low visibility: **68.4% → 84.1% mAP@0.5**, **+31% small-object recall** | PyTorch · Ultralytics |
+<table>
+  <tr>
+    <th width="30%">Project</th>
+    <th>What it does</th>
+  </tr>
+  <tr>
+    <td>📞 <a href="https://github.com/Achrefjr1997/ringfence"><b>RingFence</b></a><br/><sub>Python · Go · FastAPI · WebSockets · PostgreSQL</sub></td>
+    <td>Listens to a live phone call and <b>warns the target of a scam in real time</b>. Streaming ASR + speaker-role inference feed a rules-first risk engine with a <b>bounded LLM judge</b>; safety guarantees are enforced as tests. EN / FR / AR</td>
+  </tr>
+  <tr>
+    <td>🩺 <a href="https://github.com/Achrefjr1997/MEDRAG"><b>MEDRAG</b></a><br/><sub>LangGraph · ChromaDB · FastAPI · Ollama</sub></td>
+    <td><b>Multi-agent medical RAG</b> over 7,094 MedlinePlus articles (~20k chunks). Routes each query to specialist agents; a <b>critic runs a corrective-RAG loop</b> until the answer passes</td>
+  </tr>
+  <tr>
+    <td>🔄 <a href="https://github.com/Achrefjr1997/Cobpy"><b>Cobpy</b></a><br/><sub>LangGraph · FastAPI · React</sub></td>
+    <td><b>Agentic COBOL → Python migrator.</b> Translates, tests and reflects in a loop, then scores equivalence with 4 validators (differential, property-based, LLM-judge, static)</td>
+  </tr>
+  <tr>
+    <td>🔍 <a href="https://github.com/Achrefjr1997/Modified-YOLO-World"><b>Modified&#8209;YOLO&#8209;World</b></a><br/><sub>PyTorch · Ultralytics · DCNv3</sub></td>
+    <td>YOLO-World + DCNv3, Coordinate Attention and AMFF fusion for drone anomaly detection in low visibility: <b>68.4% → 84.1% mAP@0.5</b>, <b>+31% small-object recall</b></td>
+  </tr>
+</table>
 
 <details open>
 <summary><b>📂 More projects</b></summary>
@@ -66,7 +81,6 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 
 </details>
 
----
 
 ## 🛠️ Tech stack
 
@@ -81,7 +95,6 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
   <b>MLOps:</b> MLflow · Weights & Biases · Streamlit
 </p>
 
----
 
 ## 💼 Experience
 
@@ -113,7 +126,6 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 
 </details>
 
----
 
 ## 📄 Research & education
 
@@ -121,13 +133,16 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 - 🎓 **Research Master's, Information System Techniques**, National Engineering School of Tunis (ENIT), 2023–2024
 - 🎓 **Geomatics Engineer**, Borj El Amri Aviation School (EABA), 2018–2021
 
----
 
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Achrefjr1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Achrefjr1997&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Achrefjr1997&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achrefjr1997&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Achrefjr1997&theme=tokyo-night&hide_border=true&area=true&radius=6" alt="Contribution graph" />
 </p>
 
 <div align="center">
