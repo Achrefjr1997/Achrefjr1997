@@ -50,7 +50,7 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 | 🔄 | [**Cobpy**](https://github.com/Achrefjr1997/Cobpy) | **Agentic COBOL → Python migrator.** Translates, tests and reflects in a loop, then scores equivalence with 4 validators (differential, property-based, LLM-judge, static) | LangGraph · FastAPI · React |
 | 🔍 | [**Modified-YOLO-World**](https://github.com/Achrefjr1997/Modified-YOLO-World) | YOLO-World + DCNv3, Coordinate Attention and AMFF fusion for drone anomaly detection in low visibility: **68.4% → 84.1% mAP@0.5**, **+31% small-object recall** | PyTorch · Ultralytics |
 
-<details>
+<details open>
 <summary><b>📂 More projects</b></summary>
 <br/>
 
@@ -85,7 +85,7 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 
 ## 💼 Experience
 
-<details>
+<details open>
 <summary><b>Senior AI Engineer, Perfanalysis Consulting</b> · Lac, Tunisia</summary>
 <br/>
 
@@ -96,7 +96,7 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 
 </details>
 
-<details>
+<details open>
 <summary><b>AI Engineer, Tunisian Armed Forces</b> · Tunis, Tunisia</summary>
 <br/>
 
@@ -105,7 +105,7 @@ I'm an AI engineer with 5+ years across **defense, sports analytics and healthca
 
 </details>
 
-<details>
+<details open>
 <summary><b>AI Researcher, Military Research Center & Polytechnic School of Tunisia</b></summary>
 <br/>
 
